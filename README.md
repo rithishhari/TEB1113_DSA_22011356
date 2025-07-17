@@ -13,4 +13,4 @@ Lab tasks for ADS May 2025.
 | 18/6/2025  | 4   | - [Circular Singly Linked List](L4/22011356_rithish_L4.cpp)    |
 | 25/6/2025  | 5   | - [Stack](L5/22011356_rithish_L5.cpp)          |
 | 02/7/2025  | 6   | - [Queue](L6/22011356_rithish_L6_Queue.cpp)  <br> - [Circular Queue](L6/22011356_rithish_L6_CircularQueue.cpp)   |
-| 09/6/2025  | 7   | - [Tree](L7/22011356_rithish_L7.cpp)    |
+| 09/7/2025  | 7   | - [Tree](L7/22011356_rithish_L7.cpp)    |
