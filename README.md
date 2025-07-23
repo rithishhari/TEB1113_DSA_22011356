@@ -15,4 +15,3 @@ Lab tasks for ADS May 2025.
 | 02/7/2025  | 6   | - [Queue](L6/22011356_rithish_L6_Queue.cpp)  <br> - [Circular Queue](L6/22011356_rithish_L6_CircularQueue.cpp)   |
 | 09/7/2025  | 7   | - [Tree](L7/22011356_rithish_L7.cpp)    | 
 | 16/7/2025  | 8   | - [Binary Tree](L8/22011356_rithish_L8.cpp)    |
-| 25/7/2025  | Final Project   | - [Report](FinalProject/GROUP1(SortingAlgorithmSimulator).pdf)  <br> - [Sorting Algorithm Simulator & Comparator](FinalProject/SortingAlgorithmSimulator&Comparator.cpp)   |
